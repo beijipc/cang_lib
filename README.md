@@ -1,11 +1,13 @@
 # @umi-material/cang_lib
 
+## 在线文档
 
+http://pwf8wg3cc.bkt.clouddn.com
 
 ## Usage
 
 ```sh
-umi block https://github.com//tree/master/cang_lib
+npm install cang_lib --save
 ```
 
 ## LICENSE
